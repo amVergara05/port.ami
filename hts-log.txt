@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Oct 2025 08:55:49 at https://html.ditsolution.net/bioza/landing/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.ditsolution.net/bioza/landing/# -O1 "C:\Users\CS137\Desktop\Amie-Portafolio\Amie-Portafolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/js/jquery.nivo.slider.pack.js (from https://html.ditsolution.net/bioza/landing/)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/js/jquery.meanmenu.js (from https://html.ditsolution.net/bioza/landing/)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/js/popper.min.js (from https://html.ditsolution.net/bioza/landing/)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/js/jquery.scrollUp.js (from https://html.ditsolution.net/bioza/landing/)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/js/theme.js (from https://html.ditsolution.net/bioza/landing/)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/js/jquery.barfiller.js (from https://html.ditsolution.net/bioza/landing/)
+08:57:06	Error: 	"Not Found" (404) at link https://html.ditsolution.net/bioza/landing/assets/css/owl.video.play.png (from https://html.ditsolution.net/bioza/landing/assets/css/owl.carousel.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/webfonts/fa-brands-400.woff2 (from https://html.ditsolution.net/bioza/landing/assets/css/all.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/Flaticon.woff2 (from https://html.ditsolution.net/bioza/landing/assets/css/flaticon.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/Flaticon.woff (from https://html.ditsolution.net/bioza/landing/assets/css/flaticon.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/fontawesome-webfont3295.eot?v=4.5.0 (from https://html.ditsolution.net/bioza/landing/assets/css/font-awesome.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/fontawesome-webfontd41d.eot? (from https://html.ditsolution.net/bioza/landing/assets/css/font-awesome.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/fontawesome-webfont3295.woff2?v=4.5.0 (from https://html.ditsolution.net/bioza/landing/assets/css/font-awesome.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/fontawesome-webfont3295.woff?v=4.5.0 (from https://html.ditsolution.net/bioza/landing/assets/css/font-awesome.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/fontawesome-webfont3295.ttf?v=4.5.0 (from https://html.ditsolution.net/bioza/landing/assets/css/font-awesome.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/fonts/fontawesome-webfont3295.svg?v=4.5.0 (from https://html.ditsolution.net/bioza/landing/assets/css/font-awesome.min.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/images/hero.jpg (from https://html.ditsolution.net/bioza/landing/style.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/images/hero-bg2.jpg (from https://html.ditsolution.net/bioza/landing/style.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/images/bg.jpg (from https://html.ditsolution.net/bioza/landing/style.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/venobox/preload-circle.png (from https://html.ditsolution.net/bioza/landing/venobox/venobox.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/venobox/close.gif (from https://html.ditsolution.net/bioza/landing/venobox/venobox.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/venobox/prev.gif (from https://html.ditsolution.net/bioza/landing/venobox/venobox.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/venobox/next.gif (from https://html.ditsolution.net/bioza/landing/venobox/venobox.css)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/js/silik-slider.js (from https://html.ditsolution.net/bioza/landing/index-2.html)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/images/bd1.jpg (from https://html.ditsolution.net/bioza/landing/blog-details.html)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/images/blog_1.jpg (from https://html.ditsolution.net/bioza/landing/blog-details.html)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/images/blog_2.jpg (from https://html.ditsolution.net/bioza/landing/blog-details.html)
+08:57:06	Error: 	"Too Many Requests" (429) at link https://html.ditsolution.net/bioza/landing/assets/images/blog_3.jpg (from https://html.ditsolution.net/bioza/landing/blog-details.html)
+08:57:06	Error: 	"Not Found" (404) at link https://html.ditsolution.net/bioza/landing/popper.js (from https://html.ditsolution.net/bioza/landing/assets/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 90 links scanned, 60 files written (2131174 bytes overall), 7 files updated [526968 bytes received at 6843 bytes/sec], 668797 bytes transferred using HTTP compression in 7 files, ratio 46%, 4.2 requests per connection
+(29 errors, 0 warnings, 0 messages)
